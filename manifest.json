@@ -4,7 +4,6 @@
   "start_url": "index.html",
   "theme_color": "#3498db",
   "background_color": "#3498db",
-  "display_override": ["fullscreen", "minimal-ui"],
   "display": "standalone",
   "orientation": "portrait",
   "icons": [
